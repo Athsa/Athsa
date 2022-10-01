@@ -1,0 +1,15 @@
+form{
+  text-align: center;
+  background-color: chartreuse;
+  border-radius: 3%;
+  border-color: darkblue;
+  border-left: solid white 8cm;
+  border-right: solid white 8cm;
+
+}
+h1{
+    text-align: center;
+    background-color: crimson;
+    border-left:  solid white 8cm;
+    border-right: solid white 8cm;
+}
